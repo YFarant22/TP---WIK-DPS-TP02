@@ -1,3 +1,5 @@
 node_modules
 Dockerfile
 .dockerignore
+rapport_de_vulnérabilité
+README

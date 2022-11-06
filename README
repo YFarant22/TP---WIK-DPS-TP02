@@ -1,0 +1,11 @@
+Premier docker file: Dockerfile1
+-> Dockerfile optimisé sans multi stage
+
+Deuxième Dockerfile: Dockerfile
+-> Dockerfile avec multi stage
+
+Apres avoir pull le repo build l'image a l'aide de "docker build -t [nom] .
+
+rapport_de_vulnérabilité:
+-> résultats du scan du la 1ere image
+
